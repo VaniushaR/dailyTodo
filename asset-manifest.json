@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dailyTodo/static/css/main.e6c13ad2.css",
+    "main.js": "/dailyTodo/static/js/main.291e6866.js",
+    "static/js/787.b8fa26a9.chunk.js": "/dailyTodo/static/js/787.b8fa26a9.chunk.js",
+    "index.html": "/dailyTodo/index.html",
+    "main.e6c13ad2.css.map": "/dailyTodo/static/css/main.e6c13ad2.css.map",
+    "main.291e6866.js.map": "/dailyTodo/static/js/main.291e6866.js.map",
+    "787.b8fa26a9.chunk.js.map": "/dailyTodo/static/js/787.b8fa26a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.291e6866.js"
+  ]
+}
